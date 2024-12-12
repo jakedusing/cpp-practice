@@ -1,2 +1,6 @@
-﻿  Source.cpp
+﻿  Actor.cpp
+  Object.cpp
+  Pawn.cpp
+  Source.cpp
+  Generating Code...
   Tut18_Polymorphism.vcxproj -> C:\Users\jaked\Desktop\C++ practice\Tut18_Polymorphism\x64\Debug\Tut18_Polymorphism.exe
